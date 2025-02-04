@@ -18,7 +18,7 @@ Sou apaixonado por tecnologia e programação. Atualmente, estou me aprofundando
 -  **Go** - Formando Experiência
 -  **React.js** - Formando Experiência
 -  **PHP** - Formando Experiência
--  "Inglês" - Básico
+-  **Inglês** - Básico
 
 ## 🎯 Objetivos para 2025
 ✅ **Dominar Spring Boot e Go**
