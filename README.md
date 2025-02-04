@@ -5,11 +5,20 @@
 )
 
 ## 🧑‍💻 Sobre mim
-Sou apaixonado por tecnologia e inovação. Atualmente, estou me aprofundando em **programação front-end**, **React Native**, **Spring Boot** e **Go**. 
+Sou apaixonado por tecnologia e programação. Atualmente, estou me aprofundando em **programação front-end**, **React.js**, **Spring Boot**, **Go** e **JavaScript**. 
 
 ## 🚀 O que eu faço?
 - 🌐 **Desenvolvimento Web e Mobile** (HTML, CSS, JS, React, Go)
 - 🔧 **Eletrônica**
+
+## 🖥️ Experiências 
+-  **HTML** - Básico-Intermediário
+-  **CSS** - Básico-Intermediário
+-  **JavaScript** - Formando Experiência
+-  **Go** - Formando Experiência
+-  **React.js** - Formando Experiência
+-  **PHP** - Formando Experiência
+-  "Inglês" - Básico
 
 ## 🎯 Objetivos para 2025
 ✅ **Dominar Spring Boot e Go**
