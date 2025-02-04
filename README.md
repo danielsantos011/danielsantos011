@@ -1,7 +1,8 @@
 # 🚀 Olá, sou o Daniel Santos! 👋
 
-![Desenvolvedor](https://img.shields.io/badge/Desenvolvedor-FullStack-blue)
-![Empreendedor](https://img.shields.io/badge/Empreendedor-Startup-orange)
+![Desenvolvedor](https://img.shields.io/badge/Desenvolvedor-Front_End-green)
+![Empreendedor](https://img.shields.io/badge/T%C3%A9cnico-Eletr%C3%B4nica-blue
+)
 
 ## 🧑‍💻 Sobre mim
 Sou apaixonado por tecnologia e inovação. Atualmente, estou me aprofundando em **programação front-end**, **React Native**, **Spring Boot** e **Go**. 
