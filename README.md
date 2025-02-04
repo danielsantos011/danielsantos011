@@ -1,45 +1,24 @@
-<style>
-  h1 {
-    color: #ff6600;
-    font-size: 2.5em;
-    text-align: center;
-  }
-  h2 {
-    color: #0077cc;
-  }
-  p {
-    font-size: 1.2em;
-    line-height: 1.5;
-  }
-  .highlight {
-    background-color: #f4f4f4;
-    padding: 10px;
-    border-radius: 5px;
-  }
-  .center {
-    text-align: center;
-  }
-</style>
-
 # 🚀 Olá, sou o Daniel Santos! 👋
 
-## 🧑‍💻 Desenvolvedor & Empreendedor
-Sou apaixonado por tecnologia e inovação. Atualmente, estou me aprofundando em **programação front-end**, **React**, **Spring Boot** e **Go**. 
+![Desenvolvedor](https://img.shields.io/badge/Desenvolvedor-FullStack-blue)
+![Empreendedor](https://img.shields.io/badge/Empreendedor-Startup-orange)
 
-## 🛠️ O que eu faço?
-- 🌐 Desenvolvimento Web (HTML, CSS e JS)
-- 🔧 Eletrônica
+## 🧑‍💻 Sobre mim
+Sou apaixonado por tecnologia e inovação. Atualmente, estou me aprofundando em **programação front-end**, **React Native**, **Spring Boot** e **Go**. 
+
+## 🚀 O que eu faço?
+- 🌐 **Desenvolvimento Web e Mobile** (HTML, CSS, JS, React, Go)
+- 🔧 **Eletrônica**
 
 ## 🎯 Objetivos para 2025
-✔️ Dominar **Spring Boot e Go**
-✔️ Ampliar minhas **startups**
-✔️ Melhorar meu **inglês**s
-✔️ Conseguir meu **primeiro emprego como jovem aprendiz**
+✅ **Dominar Spring Boot e Go**
+✅ **Melhorar meu inglês**
+✅ **Conseguir meu primeiro emprego como jovem aprendiz**
 
 ## 📫 Entre em contato comigo!
-📧 Email: **danielsdcruz01@gmail.com**
-📱 WhatsApp: **(11) 11 93088-1957**
-🔗 [LinkedIn](https://www.linkedin.com/in/daniel-santos-cruz-/) | [GitHub](https://github.com/danielsantos011)
+📧 **Email:** [danielsdcruz01@gmail.com](mailto:danielsdcruz01@gmail.com)
+📱 **WhatsApp:** [(11) 93088-1957](https://api.whatsapp.com/send?phone=5511930881957&text=Oi%2C+tudo+bem%3F+Quero+fazer+meu+or%C3%A7amento%2C+teria+um+momento%3F)
+🔗 **Redes Sociais:** [LinkedIn](https://www.linkedin.com/in/daniel-santos-cruz-/) | [GitHub](https://github.com/danielsantos011)
 
 ---
 ✨ _Transformando ideias em realidade!_ 🚀
