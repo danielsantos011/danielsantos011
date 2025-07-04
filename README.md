@@ -28,7 +28,7 @@ Sou apaixonado por tecnologia e programação. Atualmente, estou me aprofundando
 ## 📫 Entre em contato comigo!
 📧 **Email:** [danielsdcruz01@gmail.com](mailto:danielsdcruz01@gmail.com)
 📱 **WhatsApp:** [(11) 93088-1957](https://api.whatsapp.com/send?phone=5511930881957&text=Oi%2C+tudo+bem%3F+Quero+fazer+meu+or%C3%A7amento%2C+teria+um+momento%3F)
-🔗 **Redes Sociais:** [LinkedIn](https://www.linkedin.com/in/daniel-santos-cruz-/) | [GitHub](https://github.com/danielsantos011)
+🔗 **Redes Sociais:** [LinkedIn](https://www.linkedin.com/in/daniel-santos-cruz-/) | [GitHub](https://github.com/danielsantos011) [Portfólio](https://danielsantos011.github.io/Devlinks/)
 
 ---
 ✨ _Transformando ideias em realidade!_ 🚀
