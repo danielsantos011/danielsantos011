@@ -18,18 +18,26 @@ Gosto de criar interfaces modernas, responsivas e que geram resultado.
 
 <div align="center">
 
-<!-- Troféus do GitHub -->
-<img src="https://github-profile-trophy.vercel.app/?username=danielsantos011&theme=dracula&margin-w=15&margin-h=15&title=Stars,Commits,Issues,PullRequest,Repositories" alt="Troféus GitHub" />
+<!-- Troféus -->
+<img src="https://github-profile-trophy.vercel.app/?username=danielsantos011&theme=dracula&margin-w=10&margin-h=10&row=1&column=6" alt="Troféus GitHub" />
 
-<br /><br />
+</div>
 
-<!-- Estatísticas gerais -->
+<br />
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+<!-- Stats -->
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielsantos011&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas GitHub" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantos011&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas" />
 
-<br /><br />
+</div>
 
-<!-- Dias seguidos contribuindo -->
+<br />
+
+<div align="center">
+
+<!-- Streak -->
 <img src="https://streak-stats.demolab.com/?user=danielsantos011&theme=radical&border_radius=10&locale=pt_BR" alt="Streak GitHub" />
 
 </div>
