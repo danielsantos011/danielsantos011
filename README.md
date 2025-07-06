@@ -16,7 +16,7 @@ Gosto de criar interfaces modernas, responsivas e que geram resultado.
 
 ## ✨ Projetos recentes
 
-<div align="center">
+<div align="left">
 
 🎯 Projeto 1: [**Landing Page Simples**](https://danielsantos011.github.io/landingpage-youtube/)  
 🔗 Projeto 2: [**Réplica do Spotify**](https://danielsantos011.github.io/Spotify-Daniel-Main/)  
