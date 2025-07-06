@@ -14,6 +14,30 @@ Gosto de criar interfaces modernas, responsivas e que geram resultado.
 
 ---
 
+## ✨ Projetos recentes
+
+<div align="center">
+
+🎯 Projeto 1: [**Landing Page Simples**](https://danielsantos011.github.io/landingpage-youtube/)  
+🔗 Projeto 2: [**Réplica do Spotify**](https://danielsantos011.github.io/Spotify-Daniel-Main/)  
+⚙️ Projeto 3: [**Sistema de Automação de WHATSAPP com IA**](https://danielsantos011.github.io/sistemadeagendamentodebarbeiros/)  
+🧾 Projeto 4: [**Site "Visão WEB"**](https://danielsantos011.github.io/visaoweb.site/)  
+
+</div>
+
+> *(Substitua os `#` pelos links reais dos seus repositórios ou sites)*
+
+---
+
+## 🌐 Sites que eu criei
+
+- 🔵 **[Visão Perifa](https://visaoperifa.site/)** – site institucional com acessibilidade e formulário
+- 🔵 **[Studio Pilates Kellen Ferreira](https://studiopilateskellen.site/)** – site de recuperação de crédito com responsividade
+
+> *(Troque os links e adicione quantos quiser)*
+
+---
+
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
