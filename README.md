@@ -25,7 +25,7 @@ Gosto de criar interfaces modernas, responsivas e que geram resultado.
 
 </div>
 
-> *(Substitua os `#` pelos links reais dos seus repositórios ou sites)*
+
 
 ---
 
@@ -34,7 +34,7 @@ Gosto de criar interfaces modernas, responsivas e que geram resultado.
 - 🔵 **[Visão Perifa](https://visaoperifa.site/)** – site institucional com acessibilidade e formulário
 - 🔵 **[Studio Pilates Kellen Ferreira](https://studiopilateskellen.site/)** – site de recuperação de crédito com responsividade
 
-> *(Troque os links e adicione quantos quiser)*
+
 
 ---
 
