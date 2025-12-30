@@ -1,8 +1,9 @@
 ## 👋 Sobre mim
-
-Olá! Meu nome é **Daniel Santos**, tenho 16 anos e estudo programação há mais de 3 anos.  
-Sou apaixonado por tecnologia e focado em me tornar um desenvolvedor front-end de verdade!  
+<div align="justify" style="font-size: 16px; line-height: 1.6;">
+Olá! Meu nome é <b>Daniel Santos</b>, tenho 16 anos e estudo programação há mais de 3 anos.<br>
+Sou apaixonado por tecnologia e focado em me tornar um desenvolvedor front-end de verdade!<br>
 Gosto de criar interfaces modernas, responsivas e que geram resultado.
+</div>
 
 ---
 
