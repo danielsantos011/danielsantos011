@@ -38,7 +38,8 @@ Gosto de criar interfaces modernas, responsivas e que geram resultado.
 
 <!-- Stats -->
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielsantos011&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas GitHub" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantos011&layout=compact&theme=radical&locale=pt-br" alt="Linguagens mais usadas" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielsantos011&show_icons=true&theme=radical)
+
 
 </div>
 
