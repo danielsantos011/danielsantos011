@@ -26,8 +26,6 @@ Gosto de criar interfaces modernas, responsivas e que geram resultado.
 ## 📊 Minhas estatísticas no GitHub
 
 
-<br />
-
 <div align="center">
 
 <!-- Streak -->
