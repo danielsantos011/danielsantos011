@@ -25,18 +25,6 @@ Gosto de criar interfaces modernas, responsivas e que geram resultado.
 
 ## 📊 Minhas estatísticas no GitHub
 
-<div align="center">
-
-<!-- Troféus -->
-<img src="https://github-profile-trophy.vercel.app/?username=danielsantos011&theme=dracula&margin-w=10&margin-h=10&row=1&column=6" />
-
-<br><br>
-
-<!-- Stats -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielsantos011&show_icons=true&theme=radical&locale=pt-br" />
-
-</div>
-
 
 <br />
 
