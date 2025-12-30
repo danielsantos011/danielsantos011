@@ -9,7 +9,7 @@ Gosto de criar interfaces modernas, responsivas e que geram resultado.
 ## 🛠️ Linguagens e ferramentas que eu uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mongodb,git,github,figma,vscode,arduino,postgresql,notion&perline=6" alt="Minhas habilidades" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mongodb,git,github,figma,vscode,arduino,postgresql,notion&perline=6theme=light" alt="Minhas habilidades" />
 </div>
 
 ---
