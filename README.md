@@ -1,4 +1,4 @@
-## 👋 Sobre mim
+## Sobre mim
 <div align="justify" style="font-size: 16px; line-height: 1.6;">
 Olá! Meu nome é <b>Daniel Santos</b>, tenho 16 anos e estudo programação há mais de 3 anos.<br>
 Sou apaixonado por tecnologia e focado em me tornar um desenvolvedor front-end de verdade!<br>
@@ -7,7 +7,7 @@ Gosto de criar interfaces modernas, responsivas e que geram resultado.
 
 ---
 
-## 🛠️ Linguagens e ferramentas que eu uso
+## Linguagens e ferramentas que eu uso
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,mongodb,git,github,figma,vscode,arduino,postgresql,notion&perline=6&theme=light" alt="Minhas habilidades" />
@@ -15,7 +15,7 @@ Gosto de criar interfaces modernas, responsivas e que geram resultado.
 
 ---
 
-## 🌐 Sites que eu criei
+## Sites que eu criei
 
 - 🔵 **[Visão Perifa](https://visaoperifa.site/)** – site institucional com acessibilidade e formulário
 - 🔵 **[Studio Pilates Kellen Ferreira](https://studiopilateskellen.site/)** – site de recuperação de crédito com responsividade
@@ -24,7 +24,7 @@ Gosto de criar interfaces modernas, responsivas e que geram resultado.
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
+## Minhas estatísticas no GitHub
 
 
 <div align="center">
