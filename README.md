@@ -12,7 +12,7 @@ Além da programação, gosto de desafios, trabalho bem em equipe e tenho foco e
 ## Linguagens e ferramentas que eu uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mongodb,git,github,figma,vscode,arduino,postgresql,notion&perline=6&theme=light" alt="Minhas habilidades" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,figma,vscode,arduino,postgresql,notion&perline=6&theme=light" alt="Minhas habilidades" />
 </div>
 
 ---
